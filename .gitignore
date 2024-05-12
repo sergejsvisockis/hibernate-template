@@ -1,0 +1,13 @@
+# Intellij IDEA
+/.idea/
+*.iml
+/target/
+ō
+# Eclipse
+/bin/
+/.settings/
+.classpath
+.project
+
+# Except .gitignore itself
+!.gitignore
